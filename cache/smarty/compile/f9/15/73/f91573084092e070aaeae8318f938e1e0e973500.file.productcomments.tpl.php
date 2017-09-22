@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-09-21 18:24:59
+<?php /* Smarty version Smarty-3.1.19, created on 2017-09-22 16:06:21
          compiled from "/var/www/44.dev.dfx.fr/www/themes/jlcw/modules/productcomments//productcomments.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:36484808959c3e7db985d71-73967294%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:68605865459c518dd384d87-33233401%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'f91573084092e070aaeae8318f938e1e0e973500' => 
     array (
       0 => '/var/www/44.dev.dfx.fr/www/themes/jlcw/modules/productcomments//productcomments.tpl',
-      1 => 1505739052,
+      1 => 1506089037,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '36484808959c3e7db985d71-73967294',
+  'nocache_hash' => '68605865459c518dd384d87-33233401',
   'function' => 
   array (
   ),
@@ -37,9 +37,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59c3e7db9e0cb1_60705954',
+  'unifunc' => 'content_59c518dd3c35b8_08201583',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59c3e7db9e0cb1_60705954')) {function content_59c3e7db9e0cb1_60705954($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59c518dd3c35b8_08201583')) {function content_59c518dd3c35b8_08201583($_smarty_tpl) {?>
 <div id="idTab5" class="expand">
     <div id="product_comments_block_tab">
         <?php if ($_smarty_tpl->tpl_vars['comments']->value) {?>
@@ -232,8 +232,7 @@ foreach ($_from as $_smarty_tpl->tpl_vars['criterion']->key => $_smarty_tpl->tpl
 $_smarty_tpl->tpl_vars['criterion']->_loop = true;
 ?>
                                 <li>
-                                    <label><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['criterion']->value['name'], ENT_QUOTES, 'UTF-8', true);?>
-:</label>
+                                    <label>Votre note :</label>
                                     <div class="star_content">
                                         <input class="star not_uniform" type="radio" name="criterion[<?php echo round($_smarty_tpl->tpl_vars['criterion']->value['id_product_comment_criterion']);?>
 ]" value="1" />
@@ -242,9 +241,9 @@ $_smarty_tpl->tpl_vars['criterion']->_loop = true;
                                         <input class="star not_uniform" type="radio" name="criterion[<?php echo round($_smarty_tpl->tpl_vars['criterion']->value['id_product_comment_criterion']);?>
 ]" value="3" />
                                         <input class="star not_uniform" type="radio" name="criterion[<?php echo round($_smarty_tpl->tpl_vars['criterion']->value['id_product_comment_criterion']);?>
-]" value="4" checked="checked" />
+]" value="4" />
                                         <input class="star not_uniform" type="radio" name="criterion[<?php echo round($_smarty_tpl->tpl_vars['criterion']->value['id_product_comment_criterion']);?>
-]" value="5" />
+]" value="5" checked="checked"/>
                                     </div>
                                     <div class="clearfix"></div>
                                 </li>

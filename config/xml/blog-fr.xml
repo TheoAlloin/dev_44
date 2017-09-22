@@ -6,6 +6,14 @@
     <language>fr</language>
      <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Rencontrez Mohamadou, Ambassadeur du mois | Septembre 2017</title>
+    <link>https://www.prestashop.com/fr/blog/prestashop-ambassadors/rencontrez-mohamed-ambassadeur-du-mois-septembre-2017</link>
+    <description>Mohamadou est notre Ambassadeur à Dakar, au Sénégal et a récemment fait parler de lui sur </description>
+     <pubDate>Thu, 21 Sep 2017 00:00:00 +0200</pubDate>
+ <dc:creator>Manon Plommet</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-ambassadors/rencontrez-mohamed-ambassadeur-du-mois-septembre-2017</guid>
+  </item>
+  <item>
     <title>Constituez votre logiciel ERP sur-mesure en fonction de votre activité e-commerce ! </title>
     <link>https://www.prestashop.com/fr/blog/prestashop-news/constituez-votre-logiciel-erp-sur-mesure-en-fonction-de-votre-activite-e-commerce-2</link>
     <description>En parallèle de la refonte du système de gestion de stocks entamée lors de la dernière version, la 1.7.2, sortie en juillet dernier, PrestaShop est heureux d’annoncer le lancement de sa nouvelle so</description>
@@ -42,7 +50,7 @@
     <link>https://www.prestashop.com/fr/reussir-vos-fetes-de-fin-d-annee-les-6-leviers-e-marketing-qui-vont-booster-vos-ventes</link>
     <description>17 milliards d’euros !</description>
      <pubDate>Thu, 31 Aug 2017 00:00:00 +0200</pubDate>
- <dc:creator>Anonymous</dc:creator>
+ <dc:creator>jKonczaty</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/fr/reussir-vos-fetes-de-fin-d-annee-les-6-leviers-e-marketing-qui-vont-booster-vos-ventes</guid>
   </item>
   <item>
@@ -78,16 +86,6 @@ Dernier contact entre un marchand et son client, nous savons que le check-out es
      <pubDate>Thu, 20 Jul 2017 16:30:04 +0200</pubDate>
  <dc:creator>prestashop-partners</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/fr/4-moyens-daugmenter-votre-taux-de-conversion-grace-a-votre-page-de-paiement-6</guid>
-  </item>
-  <item>
-    <title>Comment une agence de développement web peut-elle vous être utile ?</title>
-    <link>https://www.prestashop.com/fr/comment-une-agence-de-developpement-web-peut-elle-vous-etre-utile</link>
-    <description>Par 
-Lorsqu’un marchand nous contacte pour la première fois, l’une des questions récurrentes est : &quot;Pourquoi confier ses développements à une agence ?&quot;. Puis, à propos de PrestaShop: &quot;Puisque le logiciel est gratuit, ai-je vraiment besoin d&#039;un prestataire technique ?&quot;.
-</description>
-     <pubDate>Thu, 20 Jul 2017 14:46:24 +0200</pubDate>
- <dc:creator>Anonymous</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/comment-une-agence-de-developpement-web-peut-elle-vous-etre-utile</guid>
   </item>
   </channel>
 </rss>

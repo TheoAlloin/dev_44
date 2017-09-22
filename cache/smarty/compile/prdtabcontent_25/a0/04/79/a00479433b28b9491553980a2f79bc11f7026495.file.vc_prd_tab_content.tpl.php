@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-09-20 17:58:28
+<?php /* Smarty version Smarty-3.1.19, created on 2017-09-22 16:06:21
          compiled from "/var/www/44.dev.dfx.fr/www/modules/jscomposer/views/templates/front/vc_prd_tab_content.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:103877411459c2902432aa36-63516896%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:29520008959c518dd36e0c1-08138123%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '103877411459c2902432aa36-63516896',
+  'nocache_hash' => '29520008959c518dd36e0c1-08138123',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59c29024341839_67095480',
+  'unifunc' => 'content_59c518dd37bd10_99385590',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59c29024341839_67095480')) {function content_59c29024341839_67095480($_smarty_tpl) {?><?php if (isset($_smarty_tpl->tpl_vars['vc_tab_content_results']->value)&&!empty($_smarty_tpl->tpl_vars['vc_tab_content_results']->value)) {?>
+<?php if ($_valid && !is_callable('content_59c518dd37bd10_99385590')) {function content_59c518dd37bd10_99385590($_smarty_tpl) {?><?php if (isset($_smarty_tpl->tpl_vars['vc_tab_content_results']->value)&&!empty($_smarty_tpl->tpl_vars['vc_tab_content_results']->value)) {?>
 	<?php  $_smarty_tpl->tpl_vars["vc_tab_content"] = new Smarty_Variable; $_smarty_tpl->tpl_vars["vc_tab_content"]->_loop = false;
  $_from = $_smarty_tpl->tpl_vars['vc_tab_content_results']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
 foreach ($_from as $_smarty_tpl->tpl_vars["vc_tab_content"]->key => $_smarty_tpl->tpl_vars["vc_tab_content"]->value) {
