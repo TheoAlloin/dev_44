@@ -1,0 +1,27 @@
+"Product ID*";"Attribute (Name:Type:Position)*";"Value (Value:Position)*";"Supplier reference";"Reference";"EAN13";"UPC";"Wholesale price";"Impact on price";"Ecotax";"Quantity";"Minimal quantity";"Impact on weight";"Default (0 = No, 1 = Yes)";"Combination available date";"Image position";"Image URL";"Delete existing images (0 = No, 1 = Yes)";"ID / Name of shop";"Advanced Stock Managment";"Depends on stock";"Warehouse"
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:2";"2,40m:0#xm:1#Vert:2";;"TA_722400";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:2";"2,40m:0#3m:1#Vert:2";;"TA_722403";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:3";"2,40m:0#4m:1#Vert:2";;"TA_722404";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:3";"2,40m:0#5m:1#Vert:2";;"TA_722405";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:4";"2,40m:0#6m:1#Vert:2";;"TA_722406";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:4";"2,40m:0#8m:1#Vert:2";;"TA_722408";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:5";"2,40m:0#9m:1#Vert:2";;"TA_722409";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:5";"2,40m:0#10m:1#Vert:2";;"TA_722410";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:6";"2,40m:0#12m:1#Vert:2";;"TA_722412";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:6";"2,40m:0#15m:1#Vert:2";;"TA_722415";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:7";"2,40m:0#18m:1#Vert:2";;"TA_722418";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:7";"2,40m:0#20m:1#Vert:2";;"TA_722420";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:8";"2,40m:0#25m:1#Vert:2";;"TA_722425";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:8";"3,00m:0#xm:1#Vert:2";;"TA_723000";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:9";"3,00m:0#3m:1#Vert:2";;"TA_723003";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:9";"3,00m:0#4m:1#Vert:2";;"TA_723004";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:10";"3,00m:0#5m:1#Vert:2";;"TA_723005";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:10";"3,00m:0#6m:1#Vert:2";;"TA_723006";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:11";"3,00m:0#8m:1#Vert:2";;"TA_723008";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:11";"3,00m:0#9m:1#Vert:2";;"TA_723009";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:12";"3,00m:0#10m:1#Vert:2";;"TA_723010";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:12";"3,00m:0#12m:1#Vert:2";;"TA_723012";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:13";"3,00m:0#15m:1#Vert:2";;"TA_723015";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:13";"3,00m:0#18m:1#Vert:2";;"TA_723018";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:14";"3,00m:0#20m:1#Vert:2";;"TA_723020";;;;;;0;;0;0;;;;0;0;0;0;
+9;"Hauteur:select:0#Longueur:select:1#Couleur:select:14";"3,00m:0#25m:1#Vert:2";;"TA_723025";;;;;;0;;0;0;;;;0;0;0;0;

@@ -1,0 +1,33 @@
+.tp-caption.heading_01 {
+color:#ffffff;
+background-color:rgb(0, 0, 0);
+background-color:rgba(0, 0, 0, 0);
+font-size:40px;
+line-height:40px;
+font-weight:700;
+font-family:Cabin;
+text-decoration:none;
+padding:0px 0px 0px 0px;
+text-shadow:rgba(0, 0, 0, 0.247) 0px 0px 7px;
+text-transform:uppercase;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none solid none none;
+}
+
+.tp-caption.heading_02 {
+font-size:30px;
+line-height:30px;
+font-weight:400;
+font-family:Cabin;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(0, 0, 0);
+background-color:rgba(0, 0, 0, 0);
+padding:0px;
+text-shadow:rgba(0, 0, 0, 0.247) 0px 0px 7px;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
